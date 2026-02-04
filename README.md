@@ -110,7 +110,7 @@ No es un ERP empresarial real, sino un **proyecto simple para portafolio**.
 ## ▶️ Cómo ejecutar el proyecto
 
 ```bash
-python main.py
+python Sistema_ERP.py
 
 
 
